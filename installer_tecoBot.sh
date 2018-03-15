@@ -9,7 +9,7 @@ if [ "$userinput" = "yes" ]
 then
     echo "Starting the ínstaller"
 
-    file="/etc/hosts"
+    file="discord/tecobot/index.js"
     if [ -f "$file" ]
     then
     	echo "$file allready exists."
