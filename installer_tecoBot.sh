@@ -12,6 +12,7 @@ then
     file="discord/tecobot/index.js"
     if [ -f "$file" ]
     then
+        clear
     	echo "$file allready exists."
 
         echo "Do you want to try an update of the package"
