@@ -11,3 +11,5 @@ After that is finished open the tecobot-installer folder and execute the bash sc
 ```./installer_tecoBot.sh```
 
 Now you've successfuly installed the tecobot
+
+You can get more informations in the wiki of this repository
